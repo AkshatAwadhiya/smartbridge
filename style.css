@@ -1,0 +1,96 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Heading */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Paragraph Styling */
+  .para1 {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    text-align: justify;
+  }
+  
+  .para2 {
+    font-family: 'Courier New', monospace;
+    line-height: 1.8;
+    text-align: left;
+  }
+  
+  /* Image and Caption Centering */
+  .image-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .image-container img {
+    width: 300px;
+  }
+  
+  .image-container figcaption {
+    margin-top: 8px;
+    font-style: italic;
+    color: #555;
+  }
+  
+  /* Styled Button */
+  .styled-button {
+    padding: 10px 20px;
+    border: 2px solid #333;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .styled-button:hover {
+    background-color: #333;
+    color: white;
+  }
+  
+  /* Table Styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #eee;
+  }
+  
+  /* Form Styling */
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 8px;
+    width: 250px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 15px;
+    margin-top: 10px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
