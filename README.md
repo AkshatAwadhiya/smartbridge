@@ -1,2 +1,2 @@
-# smartbridge
-smartbridge assessment 
+# ShopEZ: E-commerce Application
+ShopEZ: E-commerce Application
